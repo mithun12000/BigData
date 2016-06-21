@@ -1,4 +1,4 @@
-#Analysis of Average cost of "Cardio Vascular Stress Test" Medical procedure in US
+#Analysis of average cost of "Cardio Vascular Stress Test" Medical procedure in US
 
 Description: The main purpose of this task is to find
 1. Average cost of "Cardio Vascular Stress Test" Medical Procedure based on Virginia Practitioner.
