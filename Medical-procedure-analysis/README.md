@@ -6,7 +6,7 @@ Description: The main purpose of this task is to find
 
 The dataset is obtained from NCH and cms.gov
 
-datasets available live at: !(http://www.cs.odu.edu/~shavanur/Datas/Medicare-Physician-and-Other-Supplier-PUF-CY2012.txt)
+datasets available live at: http://www.cs.odu.edu/~shavanur/Datas/Medicare-Physician-and-Other-Supplier-PUF-CY2012.txt
 
 Output:
 
