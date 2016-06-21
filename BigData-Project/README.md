@@ -12,6 +12,8 @@ Venn diagram which depicts the total number of Medicare payment records by addre
 
 ![p2](https://cloud.githubusercontent.com/assets/11856540/16249891/4147409e-37e7-11e6-94de-4fae968cd80e.JPG)
 
+Similarly, the above analysis is done "Electro Cardiogram Report" as well. Following are the results that are obtained from it.
+
 Scatterplot of Average medicare billings for the "Electro Cardiogram Report" vs Total Payments made to each physician's office.
 
 ![p3](https://cloud.githubusercontent.com/assets/11856540/16249894/41484ae8-37e7-11e6-9e02-257c69e904e6.JPG)
